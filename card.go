@@ -22,6 +22,7 @@ type CardCharge struct {
 	CaptureAmount         float64    `json:"capture_amount,omitempty"`
 	ECI                   string     `json:"eci,omitempty"`
 	FailureReason         string     `json:"failure_reason,omitempty"`
+	ApprovalCode          string     `json:"approval_code,omitempty"`
 	CardType              string     `json:"card_type,omitempty"`
 	BankReconciliationID  string     `json:"bank_reconciliation_id,omitempty"`
 	Descriptor            string     `json:"descriptor,omitempty"`
