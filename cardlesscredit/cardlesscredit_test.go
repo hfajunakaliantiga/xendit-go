@@ -6,11 +6,11 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/hfajunakaliantiga/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go/cardlesscredit"
+	"github.com/hfajunakaliantiga/xendit-go/utils/validator"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/cardlesscredit"
-	"github.com/xendit/xendit-go/utils/validator"
 )
 
 func initTesting(apiRequesterMockObj xendit.APIRequester) {

@@ -3,7 +3,7 @@ package ewallet
 import (
 	"context"
 
-	"github.com/xendit/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go"
 )
 
 // CreatePayment creates new payment

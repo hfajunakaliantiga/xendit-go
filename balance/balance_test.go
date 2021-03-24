@@ -5,10 +5,10 @@ import (
 	"net/http"
 	"testing"
 
+	"github.com/hfajunakaliantiga/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go/balance"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/balance"
 )
 
 func initTesting(apiRequesterMockObj xendit.APIRequester) {

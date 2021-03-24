@@ -3,7 +3,7 @@ package retailoutlet
 import (
 	"context"
 
-	"github.com/xendit/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go"
 )
 
 // CreateFixedPaymentCode creates new retail outlet fixed payment code

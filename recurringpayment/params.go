@@ -3,7 +3,7 @@ package recurringpayment
 import (
 	"time"
 
-	"github.com/xendit/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go"
 )
 
 // CreateParams contains parameters for Create

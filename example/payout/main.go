@@ -6,10 +6,10 @@ import (
 	"os"
 	"time"
 
+	"github.com/hfajunakaliantiga/xendit-go/payout"
 	"github.com/joho/godotenv"
-	"github.com/xendit/xendit-go/payout"
 
-	"github.com/xendit/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go"
 )
 
 func main() {

@@ -6,9 +6,9 @@ import (
 	"os"
 	"time"
 
+	"github.com/hfajunakaliantiga/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go/cardlesscredit"
 	"github.com/joho/godotenv"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/cardlesscredit"
 )
 
 func main() {

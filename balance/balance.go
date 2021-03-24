@@ -3,7 +3,7 @@ package balance
 import (
 	"context"
 
-	"github.com/xendit/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go"
 )
 
 // Get gets balance

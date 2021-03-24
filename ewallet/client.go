@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/utils/validator"
+	"github.com/hfajunakaliantiga/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go/utils/validator"
 )
 
 // Client is the client used to invoke e-wallet API.

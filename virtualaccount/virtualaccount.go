@@ -3,7 +3,7 @@ package virtualaccount
 import (
 	"context"
 
-	"github.com/xendit/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go"
 )
 
 // CreateFixedVA creates new fixed virtual account

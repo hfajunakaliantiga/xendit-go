@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/xendit/xendit-go/disbursement"
+	"github.com/hfajunakaliantiga/xendit-go/disbursement"
 )
 
 func disbursementTest() {

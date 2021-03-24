@@ -6,9 +6,9 @@ import (
 	"os"
 	"time"
 
+	"github.com/hfajunakaliantiga/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go/card"
 	"github.com/joho/godotenv"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/card"
 )
 
 // To run this example, create the token first in https://js.xendit.co/test_tokenize.html

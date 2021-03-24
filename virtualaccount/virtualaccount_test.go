@@ -8,11 +8,11 @@ import (
 	"testing"
 	"time"
 
+	"github.com/hfajunakaliantiga/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go/utils/validator"
+	"github.com/hfajunakaliantiga/xendit-go/virtualaccount"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/utils/validator"
-	"github.com/xendit/xendit-go/virtualaccount"
 )
 
 func initTesting(apiRequesterMockObj xendit.APIRequester) {
