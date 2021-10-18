@@ -29,7 +29,7 @@ type VirtualAccount struct {
 type VirtualAccountBank struct {
 	Name        string `json:"name"`
 	Code        string `json:"code"`
-	IsActivated string `json:"is_activated"`
+	IsActivated bool   `json:"is_activated"`
 }
 
 // VirtualAccountPayment contains data from Xendit's API response of Get Fixed Virtual Account Payment.
