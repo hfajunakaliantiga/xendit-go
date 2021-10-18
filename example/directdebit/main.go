@@ -6,11 +6,11 @@ import (
 	"os"
 	"time"
 
+	"github.com/hfajunakaliantiga/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go/directdebit/directdebitpayment"
+	"github.com/hfajunakaliantiga/xendit-go/directdebit/linkedaccount"
+	"github.com/hfajunakaliantiga/xendit-go/directdebit/paymentmethod"
 	"github.com/joho/godotenv"
-	"github.com/xendit/xendit-go"
-	"github.com/xendit/xendit-go/directdebit/directdebitpayment"
-	"github.com/xendit/xendit-go/directdebit/linkedaccount"
-	"github.com/xendit/xendit-go/directdebit/paymentmethod"
 )
 
 func main() {

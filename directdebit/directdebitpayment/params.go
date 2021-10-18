@@ -3,7 +3,7 @@ package directdebitpayment
 import (
 	"net/url"
 
-	"github.com/xendit/xendit-go"
+	"github.com/hfajunakaliantiga/xendit-go"
 )
 
 // CreateDirectDebitPaymentParams contains parameters for CreateDirectDebitPayment
